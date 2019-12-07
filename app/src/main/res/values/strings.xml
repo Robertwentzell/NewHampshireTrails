@@ -11,6 +11,84 @@
     <string name="todo">TODO</string>
     <string name="title_activity_maps">Map</string>
     <string name="google_maps_key">AIzaSyAKkZ9za5Zmu81x01AVs40Cdo6OQbHE8rY</string>
+    <string name="large_text">
+        1. Magalloway Mountain \n
+        Elevation: 3383 feet \n
+        Hiking Distance: 2.1 miles \n
+        Coordinates: 45.063611, -71.163056 \n\n
+
+        2. Granite Town Rail Trail \n
+        Elevation: 351.84 ft \n
+        Hiking Distance: 2.7 miles \n
+        Coordinates: 42.825297, -71.648559 \n\n
+
+        3. Monadnock Mountain \n
+        Elevation: 3165 feet \n
+        Hiking Distance: 3.7 miles  \n
+        Coordinates: 42.860827, -72.108756 \n\n
+
+        4. Table Rock Trail \n
+        Elevation: 1999 feet \n
+        Hiking Distance: 1.5 miles  \n
+        Coordinates: 43.141793, -72.439570 \n\n
+
+        5. Sugarloaf Mountain Trail \n
+        Elevation: 2,168 feet \n
+        Hiking Distance: 4.4 miles \n
+        Coordinates: 44.251606, -71.517924 \n\n
+
+        6. North Percy Trail \n
+        Elevation: 2148 feet \n
+        Hiking Distance: 3.8 miles \n
+        Coordinates: 44.663139, -71.435553 \n\n
+
+        7. Kilkenney Ridge Trail \n
+        Elevation: 7350 feet \n
+        Hiking Distance: 27 miles \n
+        Coordinates: 44.597017, -71.368317 \n\n
+
+        8. Garfield Falls Trail \n
+        Elevation: 170 feet \n
+        Hiking Distance: 0.9 miles \n
+        Coordinates: 45.035142, -71.113665 \n\n
+
+        9. Prospect Mountain Trail \n
+        Elevation: 2030 feet \n
+        Hiking Distance: 100 miles \n
+        Coordinates: 44.451511, -71.570362 \n\n
+
+        10. Kilburn Crag Trail \n
+        Elevation: 1300 feet \n
+        Hiking Distance: 1.4 miles \n
+        Coordinates: 44.321008, -71.814537 \n\n
+
+        11. Peaked Hill Pond Trail \n
+        Elevation: 442 feet \n
+        Hiking Distance: 3.2 miles \n
+        Coordinates: 43.897379, -71.686255 \n\n
+
+        12. Profile Falls Trail \n
+        Elevation: 50 feet \n
+        Hiking Distance: 0.2 miles \n
+        Coordinates: 43.568245, -71.731812 \n\n
+
+        13. McCarthy Trail \n
+        Elevation: 50 feet \n
+        Hiking Distance: 1 mile  \n
+        Coordinates: 43.379358, -71.048152 \n\n
+
+        14. Northwood Meadows State Park \n
+        Elevation: 1200 feet \n
+        Hiking Distance: 2.6 mile \n
+        Coordinates: 43.213097, -71.198262 \n\n
+
+        15. Great Brook Trail \n
+        Elevation: 760 feet \n
+        Hiking Distance: 2.3 miles \n
+        Coordinates: 43.153251, -71.214785 \n\n
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_trails">TrailsActivity</string>
 
 
 </resources>
