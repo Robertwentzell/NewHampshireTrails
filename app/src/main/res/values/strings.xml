@@ -14,7 +14,14 @@
     <string name="google_maps_key">AIzaSyAKkZ9za5Zmu81x01AVs40Cdo6OQbHE8rY</string>
     <string name="profile_name">Name: Robert Johnson</string>
     <string name="profile_miles">Total miles: 274 miles</string>
+    <string name="home_title">New Hampshire Trails</string>
     <string name="profile_avg">Average difficulty: </string>
+    <string name="settings_about">About Us</string>
+    <string name="settings_password">Change password</string>
+    <string name="settings_version">Version: 1.0 | Dec. 2019 </string>
+    <string name="settings_logout">Logout</string>
+    <string name="settings_feedback">Feedback Page</string>
+    <string name="settings_notifications">Notifications</string>
     <string name="large_text">
         1. Magalloway Mountain \n
         Elevation: 3383 feet \n
