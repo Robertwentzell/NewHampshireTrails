@@ -9,10 +9,12 @@
     <string name="signup">Sign up</string>
     <string name="homepage_description_TextView">New Hampshire Trails </string>
     <string name="mr.johnson">Mr.Johnson</string>
+    <string name="profile_num_hikes"> Hikes completed: 9</string>
     <string name="title_activity_maps">Map</string>
     <string name="google_maps_key">AIzaSyAKkZ9za5Zmu81x01AVs40Cdo6OQbHE8rY</string>
     <string name="profile_name">Name: Robert Johnson</string>
     <string name="profile_miles">Total miles: 274 miles</string>
+    <string name="profile_avg">Average difficulty: </string>
     <string name="large_text">
         1. Magalloway Mountain \n
         Elevation: 3383 feet \n
